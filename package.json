@@ -4,6 +4,7 @@
   "description": "",
   "main": "controller.js",
   "dependencies": {
+    "etherport-client": "^0.1.4",
     "johnny-five": "^2.0.0",
     "keypress": "^0.2.1"
   },
