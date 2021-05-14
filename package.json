@@ -4,7 +4,8 @@
   "description": "",
   "main": "controller.js",
   "dependencies": {
-    "johnny-five": "^2.0.0"
+    "johnny-five": "^2.0.0",
+    "keypress": "^0.2.1"
   },
   "devDependencies": {},
   "scripts": {
